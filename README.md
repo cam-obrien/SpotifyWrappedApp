@@ -1,4 +1,4 @@
-# Final Project Proposal
+# Spotify Wrapped App
 
 ### Group Members: Hannah Maung, Gretel Rajamoney, Cam O’Brien, Payton Olson
 
